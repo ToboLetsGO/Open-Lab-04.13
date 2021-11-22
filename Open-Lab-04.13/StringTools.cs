@@ -21,10 +21,7 @@ namespace Open_Lab_04._13
                             biggest_string = temp_string;
                         }
                     }
-                    else
-                    {
-                        break;
-                    }
+                    else{break;}
                 }
             }
             return biggest_string;
